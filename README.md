@@ -1,6 +1,6 @@
-# 🚀 CodeFusion
+# 🚀 CodeSync
 
-**CodeFusion** is a modern, LeetCode-like collaborative coding platform where users can solve problems, run code with Judge0, get AI-powered help (powered by Google Gemini), and collaborate in real-time with Liveblocks. The platform features a clean, minimal UI for an intuitive user experience.
+**CodeSync** is a modern, LeetCode-like collaborative coding platform where users can solve problems, run code with Judge0, get AI-powered help (powered by Google Gemini), and collaborate in real-time with Liveblocks. The platform features a clean, minimal UI for an intuitive user experience.
 
 ## ✨ Features
 
@@ -68,8 +68,8 @@ VITE_FIREBASE_APP_ID=
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sidgureja7803/CodeFusion.git
-   cd codefusion
+   git clone https://github.com/sidgureja7803/CodeSync.git
+   cd CodeSync
    ```
 2. **Install dependencies**
    ```bash
@@ -92,7 +92,7 @@ VITE_FIREBASE_APP_ID=
    npm start
    ```
 5. **Open your browser**
-   - Go to your frontend URL (e.g., `http://localhost:7000`) to use CodeFusion!
+   - Go to your frontend URL (e.g., `http://localhost:7000`) to use CodeSync!
 
 ## 💡 UI/UX
 
